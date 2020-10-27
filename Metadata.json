@@ -1,0 +1,20 @@
+{
+    "Author": "Vivek N D",
+    "ContentSize": 49264,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/automated-checking-for-data-integrity-of-storsimple-volumes/master/Check-StorSimpleVolume-DiskIntegrity.ps1",
+    "DownloadCount": 676,
+    "Id": "Automated-checking-for-d6cc970c",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 506,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-2-11T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This script lets you set up scheduled checks for data corruption in StorSimple volumes and sends a report with the results after every check. It works by cloning StorSimple volumes on to a StorSimple Cloud appliance, connects the volumes to a VM in Azure and runs chkdsk util",
+    "Title": "Automated checking for data integrity of StorSimple Volumes",
+    "UpdatedDate": "2016-2-24T00:00:00",
+    "Url": "https://github.com/azureautomation/automated-checking-for-data-integrity-of-storsimple-volumes",
+    "UserTags": "Automation, Azure Automation, StorSimple"
+}
